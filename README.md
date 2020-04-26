@@ -16,6 +16,16 @@ In this project you should practice the pair programming roles: [Driver and Navi
 ## Learning Objectives
 
 * Exploring and understanding the [PokeAPI](https://pokeapi.co/)
+    * This one is important!  Be sure to spend some time practicing with this API before diving into the project.
 * Using `import` and `export`
 * Pair Programming
 
+---
+
+## Challenges
+
+Looking for a little more?
+
+* Style it, the demo's pretty ugly.
+* Render all of the selected pokemon's evolutions
+* Make a cooler table of contents than just an `<input>` tag
